@@ -28,6 +28,6 @@ This is the **frontend** for the **Digital Name Card** system built using **Next
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/digital-name-card-frontend.git
+   git clone https://github.com/denpse/digital-name-card-front-end.git
    cd digital-name-card-frontend
    ```
